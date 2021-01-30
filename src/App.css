@@ -1,0 +1,39 @@
+body {
+  margin: 0px;
+}
+.page-link-active {
+  background-color: lightskyblue;
+  cursor: default !important;
+}
+.page-link-active:hover {
+  background-color: skyblue !important;
+}
+.clickable {
+  cursor: pointer;
+}
+.movie_form_wrapper {
+  display: flex;
+  flex-flow: column nowrap;
+  justify-content: center;
+  align-items: center;
+}
+.form {
+  display: flex;
+  flex-flow: column nowrap;
+  align-items: center;
+  justify-content: center;
+  width: 30vw;
+}
+.form-group {
+  width: 100%;
+}
+.navbar-text {
+  color: black !important;
+}
+.customer_table_box, .rental_table_box {
+  width: 60vw;
+  margin-left: 20vw;
+  text-align: center;
+  border: 1px solid #dee2e6;
+  border-top: none;
+}
