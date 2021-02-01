@@ -1,5 +1,5 @@
 # About
-App made using react implementing SPA with react router dom
+App made using react implementing SPA with react router dom. You can find backend for this app [here](https://github.com/DewEnforcer/movie-store-app-backend.git)
 # Setup
 Clone project: 
 ```
